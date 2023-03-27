@@ -1,0 +1,15 @@
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.csproj.AssemblyReference.cache
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.AssemblyInfoInputs.cache
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.AssemblyInfo.cs
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.csproj.CoreCompileInputs.cache
+C:\Users\User\BootCamp2\Algoritms\bin\Debug\net6.0\Algoritms.exe
+C:\Users\User\BootCamp2\Algoritms\bin\Debug\net6.0\Algoritms.deps.json
+C:\Users\User\BootCamp2\Algoritms\bin\Debug\net6.0\Algoritms.runtimeconfig.json
+C:\Users\User\BootCamp2\Algoritms\bin\Debug\net6.0\Algoritms.dll
+C:\Users\User\BootCamp2\Algoritms\bin\Debug\net6.0\Algoritms.pdb
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.dll
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\refint\Algoritms.dll
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.pdb
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\Algoritms.genruntimeconfig.cache
+C:\Users\User\BootCamp2\Algoritms\obj\Debug\net6.0\ref\Algoritms.dll
