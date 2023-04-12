@@ -1,0 +1,15 @@
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.csproj.AssemblyReference.cache
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.AssemblyInfoInputs.cache
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.AssemblyInfo.cs
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.csproj.CoreCompileInputs.cache
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\bin\Debug\net6.0\Sorting1.exe
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\bin\Debug\net6.0\Sorting1.deps.json
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\bin\Debug\net6.0\Sorting1.runtimeconfig.json
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\bin\Debug\net6.0\Sorting1.dll
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\bin\Debug\net6.0\Sorting1.pdb
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.dll
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\refint\Sorting1.dll
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.pdb
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\Sorting1.genruntimeconfig.cache
+C:\Users\User\GB_BootCamps\BootCamps_Programmist\Bootcamp13\Sorting1\obj\Debug\net6.0\ref\Sorting1.dll
