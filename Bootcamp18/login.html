@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% if form %}
+
+<form action = "" method = "post">
+
+    {{form.csrf_token}}
+
+    
+    {{form.email.label}}
+    {{form.email()}}
+    <br>
+    {{form.password.label}}
+    {{form.password()}}
+    <br>
+    
+    {{form.submit()}}
+
+{% endif %}
+{% if message == 'Registration is succesful' %}
+<a href = "/log"> Authorisation</a>
+{% endif %}
+    {{message}}
+
+
+
+
+{% endblock %}
+</form>

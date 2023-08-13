@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% block content %}
+<head>
+    <meta charset="UTF-8">
+   
+    <title>Main page</title>
+</head>
+
+<style>
+    html{
+    background-color: aquamarine;
+}
+</style>
+
+<body>
+    <!-- <table>
+            <tr><th>Name</th>     <th>Surname</th>      <th>BirthData</th></tr>
+        {% for row in data %}
+        <tr><td>{{ row[0] }}</td><td>{{ row[1] }}</td><td>{{ row[2] }}</td></tr>
+           {% endfor %}
+
+    </table> -->
+    <h3><a href = "/login">Logining</a></h3>
+    <h3><a href = "/register">Registration</a></h3>
+    
+    {% endblock %}
+</body>
+</html>
